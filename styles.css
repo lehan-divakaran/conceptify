@@ -1,0 +1,39 @@
+
+.btn{
+    background-color: black;
+    color:white;
+    padding:7px 12px;
+    border: none;
+    cursor: pointer;
+     touch-action: ;
+}
+.a{
+    background-color:rgb(71, 71, 248);
+    color:white;
+    border:none;
+    padding:7px 12px;
+    cursor: pointer;
+    
+}
+
+.b{
+    background-color: rgba(251, 243, 243, 0.955);
+    border:none;
+    padding:7px 12px;
+    cursor: pointer;
+}
+div{
+    padding-right: 15%;
+}
+.c{
+    background-color: black;
+    color:white;
+    padding:7px 12px;
+    border: none;
+    cursor: pointer;
+}
+
+div1{
+    background-color:black;
+}
+
